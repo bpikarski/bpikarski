@@ -1,3 +1,5 @@
+[![MasterHead](techleaderbanner.jpg)]
+
 ### Hi there, I'm Bill Pikarski
 #### I am a Technology Leader
 ![I am a Technology Leader](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
