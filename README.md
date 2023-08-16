@@ -1,4 +1,4 @@
-[![MasterHead](techleaderbanner.jpg)]
+![testimage](https://github.com/bpikarski/bpikarski/assets/116120555/040c7d72-a86c-4c2a-8967-f364a2229627)
 
 ### Hi there, I'm Bill Pikarski
 #### I am a Technology Leader
